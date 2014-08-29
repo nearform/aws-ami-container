@@ -1,0 +1,33 @@
+{
+  "name": "aws-ami-container",
+  "description": "nscale aws ami container",
+  "keywords": [
+    "nearForm",
+    "nscale",
+    "deployer",
+    "docker",
+    "container",
+    "aws",
+    "ami",
+    "ec2"
+  ],
+  "version": "0.0.1",
+  "license": "Artistic License 2.0",
+  "author": "Peter Elger (http://nearform.com/)",
+  "contributors": [
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+  ],
+  "main": "lib/container",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "bunyan": "~1.0.0",
+    "aws-sdk": "~2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/aws-ami-container.git"
+  },
+  "devDependencies": {}
+}
