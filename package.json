@@ -22,8 +22,9 @@
     "node": "*"
   },
   "dependencies": {
+    "aws-sdk": "~2.0.15",
     "bunyan": "~1.0.0",
-    "aws-sdk": "~2.0.15"
+    "lodash": "^2.4.1"
   },
   "repository": {
     "type": "git",
