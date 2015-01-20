@@ -11,7 +11,7 @@
     "ami",
     "ec2"
   ],
-  "version": "0.10.0",
+  "version": "0.14.0",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
