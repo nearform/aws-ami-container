@@ -11,11 +11,12 @@
     "ami",
     "ec2"
   ],
-  "version": "0.15.2",
+  "version": "0.15.3",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
-    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)",
+    "Matteo Collina <matteo.collina@nearform.com>"
   ],
   "main": "lib/container",
   "engines": {
