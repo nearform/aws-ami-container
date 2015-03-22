@@ -13,10 +13,11 @@ to deploy using Amazon Cloud Services as the target platform.
 ## License
 Copyright (c) 2015 [nearForm] and other contributors
 
-Licensed under the <a href='./LICENSE'>Artistic License 2.0</a>
+Licensed under the [Artistic License 2.0]
 
 
 [nscale]: http://nscale.nearform.com
 [logo]: ./_imgs/logo.png
 [nearForm]: http://nearform.com
 [documentation]: http://github.com/nearform/nscale-docs
+[Artistic License 2.0]:./LICENSE
