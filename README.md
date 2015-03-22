@@ -6,14 +6,14 @@ __[nscale]__ is an open toolkit supporting configuration, build and deployment o
 
 # Amazon Machine Image Container
 Manages the creation, deployment, linking and unlinking of an Amazon Machine Image for __nscale__. The
-aws-ami-analyzer is used internally by __nscale__, see __nscale__'s [documentation] for information on how
+aws-ami-container is used internally by __nscale__, see __nscale__'s [documentation] for information on how
 to deploy using Amazon Cloud Services as the target platform.
 
 
 ## License
 Copyright (c) 2015 [nearForm] and other contributors
 
-Licensed under the Artistic License 2.0
+Licensed under the <a href='./LICENSE'>Artistic License 2.0</a>
 
 
 [nscale]: http://nscale.nearform.com
