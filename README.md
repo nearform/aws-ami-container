@@ -7,7 +7,7 @@ __[nscale]__ is an open toolkit supporting configuration, build and deployment o
 # Amazon Machine Image Container
 Manages the creation, deployment, linking and unlinking of an Amazon Machine Image for __nscale__. The
 aws-ami-container is used internally by __nscale__, see __nscale__'s [documentation] for information on how
-to deploy using Amazon Cloud Services as the target platform.
+to deploy using Amazon Web Services as the target platform.
 
 
 ## License
