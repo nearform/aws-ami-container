@@ -11,7 +11,7 @@ to deploy using Amazon Web Services as the target platform.
 
 
 ## License
-Copyright (c) 2015 [nearForm] and other contributors
+Copyright (c) 2014-2015 [nearForm] and other contributors
 
 Licensed under the [Artistic License 2.0]
 
